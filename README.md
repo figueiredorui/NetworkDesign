@@ -9,5 +9,5 @@ http://networkdesign.apphb.com/Account/Login
 
 Username: demo
 
-password: demo
+Password: demo
 
